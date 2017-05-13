@@ -1,2 +1,4 @@
 # First_project
-just a demo
+===============
+
+This is a sample repository, etc.
